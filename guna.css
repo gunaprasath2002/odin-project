@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:monospace;
+    box-sizing:border-box;
+    background-color: bisque;
+}
+.hero
+{
+ background-color: aquamarine;
+ font-style:normal;
+}
+
+.name{
+    color:chartreuse;
+    font-size: 70px;
+}
+ul{
+    font-size: 30px;
+    font-family:sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+a{
+    text-decoration: none;
+    padding: 4px;
+}
